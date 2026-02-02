@@ -12,12 +12,12 @@ This application is a personal finance manager developed in Flutter. It allows u
 📱 User Experience (UX)
 
 Transactions: Users add expenses via a floating button; data syncs instantly with the cloud.
-
-![Main Screen](image.png)
+![alt text](image-2.png)
+![Main Screen](image-1.png)
 
 Visual Analytics: A dedicated statistics tab features interactive pie charts for category-wise spending.
 
-![AI Chat Analysis](image-1.png)
+![AI Chat Analysis](image.png)
 
 AI Chat: A chat interface allows users to ask natural language questions (e.g., "How much did I spend on food?").
 
